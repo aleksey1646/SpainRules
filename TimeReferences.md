@@ -87,6 +87,7 @@ a la uno - в час
 Чтобы задать вопрос, также требуется предлог a.  
 
 ¿A qué hora? - Во сколько?  
+Que hora es? - Который час?
 
 ¿A qué hora abren las tiendas? - Во сколько открываются магазины?  
 Las tiendas abren a las ocho de la mañana - Магазины открываются в восемь часов утра.  
