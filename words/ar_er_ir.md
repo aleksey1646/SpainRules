@@ -35,7 +35,22 @@ poseer | to possess, own
 romper | to break
 temer | to fear, dread
 vender | to sell
-
+abrir | to open
+admitir | to admit
+asistir (a) | to attend
+cubrir | to cover
+decidir | to decide
+describir | to describe
+descubrir | to discover
+discutir | to discuss
+escribir | to write
+existir | to exist
+permitir | to permit
+recibir | to receive, welcome
+subir | to climb, go up
+sufrir | to suffer
+unir | to unite
+vivir | to live
 
 
 
