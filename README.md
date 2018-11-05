@@ -8,7 +8,7 @@
 ### Ser
 Origin, relationships (familar, selected), physical attributes(weight, hight), personality charasteristics, possesion, profession, identification, date and time, nationality, color
 
-  |  
+Spain|Eng 
 --- | ---
 yo soy | I am
 t**u** eres | you are
