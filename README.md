@@ -17,7 +17,7 @@ Markdown | не такой
 
 
 
-  |  
+ 1 |  2
 --- | ---
 yo soy | I am
 t**u** eres | you are
