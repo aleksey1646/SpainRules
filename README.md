@@ -8,9 +8,9 @@
 ### Ser
 Origin, relationships (familar, selected), physical attributes(weight, hight), personality charasteristics, possesion, profession, identification, date and time, nationality, color
 
-Markdown | не такой | красивый
---- | --- | ---
-*Но выводится* | `так же` | **клево**
+Markdown | не такой 
+--- | ---
+*Но выводится* | `так же` 
 1 | 2  
 1 | 2 
 1 | 2 
