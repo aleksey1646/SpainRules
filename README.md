@@ -4,6 +4,8 @@
 ##### Содержание  
 [To be (ser и estar)](#tobe) 
 [Предлог А](#predlog_a) 
+[Заголовки](#headers)  
+[Выделение](#emphasis)  
 
 <a name="tobe"><h2>To be (ser и estar)</h2></a>
 ### Ser
