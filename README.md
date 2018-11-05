@@ -25,9 +25,11 @@ ustedes son | you all are
 
 ### Estar
 
-`` Location, mood, physical condition, results of action, 
+``` 
+Location, mood, physical condition, results of action, 
 unnatural color or condition(sky is gray!! it's floatbale value because sky is blue),
-going from the general to the particular(the cup of tea is beutiful)``
+going from the general to the particular(the cup of tea is beutiful) 
+```
 
 
 hhjhj
