@@ -10,7 +10,7 @@ Origin, relationships (familar, selected), physical attributes(weight, hight), p
 
 Spain|Eng 
 --: | :--
-:yo soy | I am:
+: yo soy | I am :
 t**u** eres | you are
 **e**l es | he is
 ella es | she is
