@@ -2,7 +2,7 @@
 ---------------------
 
 ##### Содержание  
-[To be (ser и estar)](#tobe)  
+[To be (ser, estar и hay)](#tobe)  
 [Предлог А](#predlog_a)  
 [Сопряжение регулярных глаголов](#conjugation_of_regular_verbs)
 
