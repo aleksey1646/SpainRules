@@ -9,8 +9,8 @@
 Origin, relationships (familar, selected), physical attributes(weight, hight), personality charasteristics, possesion, profession, identification, date and time, nationality, color
 
 Spain|Eng 
---: | :--
-: yo soy | I am :
+:-- :| :--:
+yo soy | I am
 t**u** eres | you are
 **e**l es | he is
 ella es | she is
