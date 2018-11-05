@@ -7,7 +7,6 @@
 
 <a name="tobe"><h2>To be (ser и estar)</h2></a>
 ### Ser
-
 `
 Origin, relationships (familar, selected), physical attributes(weight, hight), personality charasteristics, possesion, profession, identification, date and time, nationality, color
 `
@@ -28,7 +27,6 @@ ellas son | they are (fem.)
 ustedes son | you all are
 
 ### Estar
-
 `
 Location, mood, physical condition, results of action, unnatural color or condition(sky is gray!! it's floatbale value because sky is blue),going from the general to the particular(the cup of tea is beutiful) 
 `
@@ -48,7 +46,7 @@ ellos est**a**n	| they are (masc.)
 ellas est**a**n	| they are (fem.)
 ustedes est**a**n	| you all are
 
-
+<a name="predlog_a"><h2>To be (ser и estar)</h2></a>
 ### Предлог а
 `В испанском языке существует очень важное и незыблемое правило, которое раз и навсегда нужно запомнить и ни на минуту о нём не забывать. Оно звучит таким образом: если какое-либо действие направлено на человека (например, звонить кому-то, слушать кого-то, ждать кого-то и т.д.), то перед человеком необходимо поставить предлог a. Глаголы при этом могут быть все абсолютно разными.`
 
