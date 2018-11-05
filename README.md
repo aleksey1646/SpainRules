@@ -9,7 +9,6 @@
 Origin, relationships (familar, selected), physical attributes(weight, hight), personality charasteristics, possesion, profession, identification, date and time, nationality, color
 
 Markdown | не такой | красивый
---- | --- | ---
 *Но выводится* | `так же` | **клево**
 1 | 2 | 3
 1 | 2 | 3
