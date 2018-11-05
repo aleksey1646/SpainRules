@@ -4,6 +4,7 @@
 ##### Содержание  
 [To be (ser и estar)](#tobe)  
 [Предлог А](#predlog_a)  
+[Сопряжение регулярных глаголов](#conjugation_of_regular_verbs)
 
 
 <a name="tobe"><h2>To be (ser и estar)</h2></a>
@@ -49,6 +50,24 @@ ustedes est**a**n	| you all are
 
 <a name="predlog_a"><h2>Предлог а</h2></a>
 `В испанском языке существует очень важное и незыблемое правило, которое раз и навсегда нужно запомнить и ни на минуту о нём не забывать. Оно звучит таким образом: если какое-либо действие направлено на человека (например, звонить кому-то, слушать кого-то, ждать кого-то и т.д.), то перед человеком необходимо поставить предлог a. Глаголы при этом могут быть все абсолютно разными.`
+
+<a name="conjugation_of_regular_verbs"><h2>Сопряжение регулярных глаголов</h2></a>
+-ar | -er | -ir
+-- | -- | --
+yo -o | yo -o | yo -o
+tú -as | tú -es | tú -es
+él -a | él -e | él -e
+ella -a | ella -e | ella -e
+usted -a | usted -e | usted -e
+nosotros -amos | nosotros -emos | nosotros -imos
+nosotras -amos | nosotras -emos | nosotras -imos
+vosotros -áis | vosotros -éis | vosotros -ís
+vosotras -áis | vosotras -éis | vosotras -ís
+ellos -an | ellos -en | ellos -en
+ellas -an | ellas -en | ellas -en
+ustedes -an | ustedes -en | ustedes -en
+
+
 
 
 
