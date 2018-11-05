@@ -7,9 +7,9 @@
 <a name="tobe"><h2>To be (ser и estar)</h2></a>
 ### Ser
 
-``
+`
 Origin, relationships (familar, selected), physical attributes(weight, hight), personality charasteristics, possesion, profession, identification, date and time, nationality, color
-``
+`
 
 Spain|Eng 
 -- | --
@@ -28,9 +28,9 @@ ustedes son | you all are
 
 ### Estar
 
-``` 
+`
 Location, mood, physical condition, results of action, unnatural color or condition(sky is gray!! it's floatbale value because sky is blue),going from the general to the particular(the cup of tea is beutiful) 
-```
+`
 
 Spain | Eng
 --- | ---
