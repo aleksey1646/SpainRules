@@ -48,7 +48,7 @@ ellos est**a**n	| they are (masc.)
 ellas est**a**n	| they are (fem.)
 ustedes est**a**n	| you all are
 
-### Hay 
+### Hay глагол
 Где-то находится что-то. На местности где-то находится что-то, иначе - estar
 
 <a name="predlog_a"><h2>Предлог а</h2></a>
