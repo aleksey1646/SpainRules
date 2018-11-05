@@ -10,33 +10,34 @@
 
 
 <a name="regularity_and_frequency"><h2>Регулярность и периодичность</h2></a>
-siempre - всегда
-Lucía siempre está preparada para la clase - Лусия всегда готова к уроку
+siempre - всегда. 
+Lucía siempre está preparada para la clase - Лусия всегда готова к уроку. 
 
-a menudo - часто
-Mi papá come carne a menudo - Мой папа часто ест мясо
-Escribo cartas a menudo - Я часто пишу письма
+a menudo - часто  
+Mi papá come carne a menudo - Мой папа часто ест мясо  
+Escribo cartas a menudo - Я часто пишу письма  
 
-normalmente - обычно
-Normalmente escuchamos la música clásica - Обычно мы слушаем классическую музыку
-Normalmente José estudia bien - Обычно Хосе учится хорошо
+normalmente - обычно  
+Normalmente escuchamos la música clásica - Обычно мы слушаем классическую музыку  
+Normalmente José estudia bien - Обычно Хосе учится хорошо  
 
-a veces - иногда
-A veces canto en la ducha - Иногда я пою в душе
-A veces leemos libros en original - Иногда мы читаем книги в оригинале
+a veces - иногда  
+A veces canto en la ducha - Иногда я пою в душе  
+A veces leemos libros en original - Иногда мы читаем книги в оригинале  
 
-poco, raramente - редко
-Juan bebe muy poco - Хуан очень редко (=мало) пьёт
+poco, raramente - редко  
+Juan bebe muy poco - Хуан очень редко (=мало) пьёт  
 Mis amigos cantan canciones raramente - Мои друзья редко поют песни
 
 <a name="regularity_and_frequency"><h2>Дни недели</h2></a>
-El lunes – понедельник.
-El martes – вторник.
-El miércoles – среда.
-El jueves – четверг.
-El viernes – пятница.
-El sábado – суббота.
-El domingo – воскресенье.
+
+El lunes – понедельник.  
+El martes – вторник.  
+El miércoles – среда.  
+El jueves – четверг.  
+El viernes – пятница.  
+El sábado – суббота.  
+El domingo – воскресенье.  
 
 Чтобы сказать "по понедельникам, по вторникам", нужно перед днём недели просто поставить артикль los, а в случае с sábado и domingo - окончание -s. Будние дни не имеют формы множественного числа: el lunes - los lunes, el martes - los martes.
 Los miércoles Álvaro practica deporte - По средам Альваро занимается спортом
